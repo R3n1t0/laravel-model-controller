@@ -4,7 +4,7 @@
 @section("content")
 
     <div class="container">
-        <h1>home</h1>
+        <h1>contatti</h1>
     </div>
 
 @endsection
